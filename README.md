@@ -1,6 +1,7 @@
 # MailApp
 Send email in C# with .Net using MailKit
 
+<h2>Description</2?
 To send emails we will be using Gmail Services.
 
 Step 1: Make sure to turn on Less secure app access in google secruity settings.
