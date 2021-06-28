@@ -23,3 +23,12 @@ A simple walkthrough on how to use MailKit to send emails using SMTP protocol us
 ```
 Install-Package MailKit
 ```
+
+### Google SMTP Server
+```
+smtp.gmail.com
+```
+SSL Port #
+```
+465
+```
