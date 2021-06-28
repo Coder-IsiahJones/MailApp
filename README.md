@@ -1,16 +1,25 @@
 # MailApp
+
 Send email in C# with .Net using MailKit
 
-<h3>Description</h3>
+## Description
 
-<div>To send emails we will be using Gmail Services.</div>
+A simple walkthrough on how to use MailKit to send emails using SMTP protocol using C#.
 
-<div>
-  Step 1: Make sure to turn on Less secure app access in google secruity
-  settings. Note: 2-step verification must be turned off for this to work.
-</div>
+## Getting Started
 
-<div>Step 2: Install NuGet Packages Command below</div>
+### Dependencies
 
-<div>Install-Package MailKit</div>
+* MailKit
+* MimeKit
 
+### Installing
+
+* The use of Visual Studio's NuGet Package Manager or NuGet Package Console.
+
+### Executing Command using NuGet Manager Console
+
+* How to run the install command.
+```
+Install-Package MailKit
+```
